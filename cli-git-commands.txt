@@ -15,3 +15,8 @@
  1052  git commit -m "Codebase initial commit."
  1053  git push
  1054  history 900 > cli-git-commands.txt
+ 1055  history 1038 > cli-git-commands.txt
+ 1056  touch .gitignore
+ 1057  git add .
+ 1058  git commit -m "add gitignore and cli interactions"
+ 1059  git push
