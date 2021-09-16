@@ -1,0 +1,17 @@
+ 1038  cd w5
+ 1039  mkdir uw-challenge-5
+ 1040  git init
+ 1041  echo "# uw-challenge-5" >> README.md
+ 1042  cd uw-challenge-5
+ 1043  echo "# uw-challenge-5" >> README.md
+ 1044  git init
+ 1045  git add README.md
+ 1046  git commit -m "first commit"
+ 1047  git branch -M main
+ 1048  git remote add origin git@github.com:ZrowGz/uw-challenge-5.git
+ 1049  git push -u origin main
+ 1050  git status
+ 1051  git add .
+ 1052  git commit -m "Codebase initial commit."
+ 1053  git push
+ 1054  history 900 > cli-git-commands.txt
