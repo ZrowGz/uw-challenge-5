@@ -1,5 +1,7 @@
 # Financial Planning
 Use an API to obtain investment data, and analyze this data to create forward-looking prediction to guide portfolio allocation.
+Use these tools to evaluate the potential forward looking returns on a stock/bond investment, and evaluate the potential for retirement  
+after 30-year & 10-year periods.
 
 ---
 
@@ -27,7 +29,7 @@ Use an API to obtain investment data, and analyze this data to create forward-lo
 - json
 - dotenv
 - alpaca_trade_api
-- MCForecastTools
+- MCForecastTools (a python app file that can be obtained from this repository)
 
 ---
 
