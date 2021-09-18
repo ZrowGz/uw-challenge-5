@@ -20,3 +20,22 @@
  1057  git add .
  1058  git commit -m "add gitignore and cli interactions"
  1059  git push
+ 1060  history 1038 > cli-git-commands.txt
+ 1061  git status
+ 1062  git add .
+ 1063  git commit -m "Update Readme"
+ 1064  git push
+ 1065  git status
+ 1066  git add .
+ 1067  git push
+ 1068  git status
+ 1069  git commit -m "Section 1 & 2 complete"
+ 1070  git push
+ 1071  git status
+ 1072  git add .
+ 1073  git commit -m "Complete, awaiting clarification."
+ 1074  git push
+ 1075  git status
+ 1076  git add . 
+ 1077  git commit -m "Questions answered."
+ 1078  git push
